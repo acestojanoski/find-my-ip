@@ -4,6 +4,4 @@
 
 ## URL
 
-```
-https://find-my-ip.now.sh
-```
+[`https://find-my-ip.now.sh`](https://find-my-ip.now.sh)
