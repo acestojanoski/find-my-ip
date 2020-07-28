@@ -1,24 +1,24 @@
 {
-  "name": "find-my-ip",
-  "version": "1.0.0",
-  "description": "Microservice to find your public IP address",
-  "main": "index.js",
-  "scripts": {
-    "xo": "xo"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "xo": "^0.30.0"
-  },
-  "keywords": [],
-  "author": "Aleksandar Stojanoski",
-  "license": "MIT",
-  "xo": {
-    "prettier": true,
-    "rules": {
-      "unicorn/prevent-abbreviations": "off",
-      "no-unused-vars": "warn",
-      "unicorn/no-console-spaces": "off"
-    }
-  }
+	"name": "find-my-ip",
+	"version": "1.0.0",
+	"description": "Microservice to find your public IP address",
+	"main": "index.js",
+	"scripts": {
+		"xo": "xo"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"xo": "^0.30.0"
+	},
+	"keywords": [],
+	"author": "Aleksandar Stojanoski",
+	"license": "MIT",
+	"xo": {
+		"prettier": true,
+		"rules": {
+			"unicorn/prevent-abbreviations": "off",
+			"no-unused-vars": "warn",
+			"unicorn/no-console-spaces": "off"
+		}
+	}
 }
